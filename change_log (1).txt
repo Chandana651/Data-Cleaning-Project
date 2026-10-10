@@ -1,0 +1,7 @@
+DATA CLEANING REPORT
+
+1. Removed duplicate rows.
+2. Handled missing Name values.
+3. Standardized City names and spaces.
+4. Checked and cleaned the dataset.
+5. Exported the cleaned dataset to CSV.
